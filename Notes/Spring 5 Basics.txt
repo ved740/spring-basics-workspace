@@ -1,3 +1,14 @@
 ## Main features of Spring Framework
 1. Light Weight
 2. Non invasive
+3. Loosely Coupled
+4. IoC
+5. Spring Container
+6. AOP
+
+# AOP is used used to develop cross cutting features into the application. 
+These features are not the part of core logic of the application but provide additional features. 
+Ex: Logging, Security etc.
+
+# Spring Web: Spring web extends the application context and provides a Web-oriented Application context. 
+So, this module is needed to develop the presentation tier of the application.
