@@ -1,0 +1,3 @@
+## Main features of Spring Framework
+1. Light Weight
+2. Non invasive
